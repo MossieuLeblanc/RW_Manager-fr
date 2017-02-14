@@ -1,6 +1,6 @@
 Colony Manager-fr
 
-Traduction française du mod Colony Manager (datant de Août 2016)
+Traduction française du mod Colony Manager (datant de Fevrier 2017)
 
 Instructions :
 
